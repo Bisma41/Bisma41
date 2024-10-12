@@ -60,4 +60,4 @@ I love combining creativity with technology, whether it's designing graphics or 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bisma41&theme=dark)](https://git.io/streak-stats)
 
 ## Watch snake eating my github contributions 
-![snake_gif](https://github.com/Bisma411/Bisma411/blob/output/github-snake-dark.svg)
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
