@@ -1,8 +1,7 @@
-![Hi There, I am Bisma Sajjad](bg.jpg)
+![Hi There, I am Bisma Sajjad](bg.png)
 
 
 <!-- Profile Header Section -->
-<h1 align="center" style="color: #f5a9b8;">Hi 👋, I'm Bisma Sajjad</h1>
 <h3 align="center" style="color: #f28cb2;">A Passionate Data Science Student & Python Developer</h3>
 
 <!-- Hacker Gif -->
