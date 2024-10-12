@@ -5,15 +5,11 @@
 <h1 align="center" style="color: #f5a9b8;">Hi 👋, I'm Bisma Sajjad</h1>
 <h3 align="center" style="color: #f28cb2;">A Passionate Data Science Student & Python Developer</h3>
 
-<!-- Profile Views -->
 
-
+<h3 align="center">Be Aware Be Safe !</h3>
 ### Hacker GIF
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
-
-<!-- Social Links -->
 
 
 ## 🌸 About Me
