@@ -4,14 +4,15 @@
 <!-- Profile Header Section -->
 <h3 align="center" style="color: #f28cb2;">A Passionate Data Science Student & Python Developer</h3>
 
-<!-- Hacker Gif -->
 
-<h3 align="center">Be Aware Be Safe !</h3>
-<img align="right" alt="Coding" width="400" src=baesthetics.png>
+<h4 align="center">Be Aware Be Safe !</h4>
 
 
 
 ## 🌸 About Me
+<!-- Hacker Gif -->
+
+<img align="right" alt="Coding" width="400" src=baesthetics.png>
 
 - 📍 **Location**: Lahore, Pakistan
 - 🕮 **Currently Studying**: BS in Data Science
