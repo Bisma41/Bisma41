@@ -55,9 +55,41 @@ I love combining creativity with technology, whether it's designing graphics or 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
 ## GitHub Stats
-![Bisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bisma41&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bisma41&layout=compact&theme=radical&custom_title=Most%20Used%20Languages%20In%20Repos&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bisma41&hide_border=true&bg_color=F3CFE4,B9D9E9&title_color=E0BEE5&text_color=E0BEE5&icon_color=A495D3&border_color=B9A4EC&show_icons=true" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bisma41&hide_border=true&background=F3CFE4&ring=A495D3&currStreakLabel=E0BEE5" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisma41&hide_border=true&bg_color=F3CFE4,B9D9E9&title_color=E0BEE5&text_color=E0BEE5&icon_color=A495D3&border_color=B9A4EC&layout=compact" />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bisma41&theme=dark)](https://git.io/streak-stats)
+
+
+---
 
 ## Watch snake eating my github contributions 
 ![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
