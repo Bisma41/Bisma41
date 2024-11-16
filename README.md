@@ -31,12 +31,9 @@ I love combining creativity with technology, whether it's designing graphics or 
 
 ### Connect with me:
 
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+* **LinkedIn:** [codeSTACKr](https://www.linkedin.com/in/bisma-sajjad-101546278/)
+* **Coursera:** [codeSTACKr](https://www.coursera.org/user/970a1c752ae7378b471396ba33e7b616) 
+* **Keggle:** [codeSTACKr](https://www.kaggle.com/bismasajjad)
 
 # langugaes and tools
 <h3 align="left">Languages and Tools:</h3>
@@ -55,6 +52,8 @@ I love combining creativity with technology, whether it's designing graphics or 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
+
+
 ## GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Bisma41&hide_border=true&bg_color=F3CFE4,D6A2F3&title_color=9f8bc0&text_color=9eaad7&icon_color=A495D3&border_color=B9A4EC&show_icons=true" /><br/>
@@ -67,18 +66,6 @@ I love combining creativity with technology, whether it's designing graphics or 
 
 ## Watch snake eating my github contributions 
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
