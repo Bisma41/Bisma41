@@ -31,9 +31,9 @@ I love combining creativity with technology, whether it's designing graphics or 
 
 ### Connect with me:
 
-* **LinkedIn:** [](https://www.linkedin.com/in/bisma-sajjad-101546278/)
-* **Coursera:** [](https://www.coursera.org/user/970a1c752ae7378b471396ba33e7b616) 
-* **Keggle:** [](https://www.kaggle.com/bismasajjad)
+* **LinkedIn:** [Try here](https://www.linkedin.com/in/bisma-sajjad-101546278/)
+* **Coursera:** [Try here](https://www.coursera.org/user/970a1c752ae7378b471396ba33e7b616) 
+* **Keggle:** [Try here](https://www.kaggle.com/bismasajjad)
 
 # langugaes and tools
 <h3 align="left">Languages and Tools:</h3>
