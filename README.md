@@ -30,14 +30,13 @@
 I love combining creativity with technology, whether it's designing graphics or solving complex data problems!
 
 ### Connect with me:
-
-* **LinkedIn:** [Try here](https://www.linkedin.com/in/bisma-sajjad-101546278/)
-* **Coursera:** [Try here](https://www.coursera.org/user/970a1c752ae7378b471396ba33e7b616) 
-* **Keggle:** [Try here](https://www.kaggle.com/bismasajjad)
-
+* **Gmail:** bismasajjad225@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/bisma-sajjad-101546278/
+* **Keggle:** https://www.kaggle.com/bismasajjad
 
 
 
+ 
 ## GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Bisma41&hide_border=true&bg_color=F3CFE4,D6A2F3&title_color=9f8bc0&text_color=9eaad7&icon_color=A495D3&border_color=B9A4EC&show_icons=true" /><br/>
